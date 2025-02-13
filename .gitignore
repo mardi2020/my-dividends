@@ -1,0 +1,33 @@
+# Python 관련
+__pycache__/
+*.py[cod]
+*.so
+*.log
+*.sqlite3
+*.db
+
+# 환경 설정
+.env
+*.ini
+*.cfg
+*.json
+
+# 가상 환경
+venv/
+.env/
+.venv/
+Pipfile
+Pipfile.lock
+
+# IDE 설정 파일
+.vscode/
+.idea/
+*.iml
+
+# FastAPI 관련
+instance/
+logs/
+*.pid
+*.swp
+*.swo
+*.swn
