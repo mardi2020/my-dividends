@@ -31,3 +31,6 @@ logs/
 *.swp
 *.swo
 *.swn
+
+services/credentials.json
+services/gcp_config.py

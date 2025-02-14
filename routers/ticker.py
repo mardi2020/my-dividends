@@ -1,5 +1,5 @@
 from fastapi import APIRouter, Query
-from services.ticker_service import fetch_ticker_info
+from services.ticker import fetch_ticker_info
 
 router = APIRouter()
 
