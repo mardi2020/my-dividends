@@ -32,4 +32,5 @@ logs/
 *.swo
 *.swn
 
-routers/credentials.json
+services/credentials.json
+services/gcp_config.py
